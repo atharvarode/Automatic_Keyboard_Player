@@ -10,7 +10,7 @@ The Automatic Keyboard Player is a project that combines the power of software a
 
 ## Demo
 
-Watch the project in action [here](https://drive.google.com/file/d/1BD2DfNHV-02PZpH-Kzx6aNuA0f2bkaLL/view?usp=sharing).
+Watch the project in action [here](https://drive.google.com/file/d/1vRkwNj5j1iNoSvl_kxSRH4rDCIiXuUgd/view?usp=drive_link).
 
 ## Requirements
 
